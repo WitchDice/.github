@@ -3,6 +3,7 @@ Witch_Dice is Deck-building/Roguelike game with using dice.
 
 ### Project Period
 [Period Ver] ~ 2026. 01. 23
+
 [Since] 2025.01.23 ~
 
 ### Used Tool
