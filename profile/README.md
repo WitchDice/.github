@@ -1,3 +1,15 @@
+# Witch_Dice
+Witch_Dice is Deck-building/Roguelike game with using dice.
+
+### Project Period
+[Period Ver] ~ 2026. 01. 23
+[Since] 2025.01.23 ~
+
+### Used Tool
+<p><img src="https://img.shields.io/badge/unity-FFFFFF?style=for-the-badge&logo=unity&logoColor=black">
+<img src="https://img.shields.io/badge/notion-FFFFFF?style=for-the-badge&logo=notion&logoColor=black">
+<img src="https://img.shields.io/badge/jira-FFFFFF?style=for-the-badge&logo=jira&logoColor=black"></p>
+
 ### Contributor
 <table>
         <tr>
