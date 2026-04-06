@@ -22,14 +22,6 @@ Witch_Dice is Deck-building/Roguelike game with using dice.
         Project Manager
       </a>
     </td>
-    <td align="center">
-        Programmer
-      </a>
-    </td>
-    <td align="center">
-        Programmer
-      </a>
-    </td>
 
   <tr>
     <td align="center" width="200px">
@@ -42,16 +34,6 @@ Witch_Dice is Deck-building/Roguelike game with using dice.
         <img src="https://avatars.githubusercontent.com/u/206500387?v=4" alt="유상원 프로필" />
       </a>
     </td>
-    <td align="center" width="200px">
-      <a href="https://github.com/Jinwook700" target="_blank">
-        <img src="https://avatars.githubusercontent.com/u/127014921?v=4" alt="정진욱 프로필" />
-      </a>
-    </td>
-          <td align="center" width="200px">
-      <a href="https://github.com/NotNull92" target="_blank">
-        <img src="https://avatars.githubusercontent.com/u/72366776?v=4" alt="지영준 프로필" />
-      </a>
-    </td>
   </tr>
   <tr>
     <td align="center">
@@ -62,16 +44,6 @@ Witch_Dice is Deck-building/Roguelike game with using dice.
     <td align="center">
       <a href="https://github.com/wallyyoo" target="_blank">
         유상원
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/Jinwook700" target="_blank">
-        정진욱
-      </a>
-    </td>
-          <td align="center">
-      <a href="https://github.com/NotNull92" target="_blank">
-        지영준
       </a>
     </td>
   </tr>
